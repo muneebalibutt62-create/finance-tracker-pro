@@ -18,8 +18,8 @@ Features:
 
 ### Main Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](DashBoard.png)
 
 ### Transaction History
 
-![Transactions](transactions.png)
+![Transactions](Transactions.png)
