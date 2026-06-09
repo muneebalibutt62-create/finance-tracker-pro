@@ -13,3 +13,13 @@ Features:
 - Transaction history
 - Delete feature
 - Auto-save system
+
+## Screenshots
+
+### Main Dashboard
+
+![Dashboard](dashboard.png)
+
+### Transaction History
+
+![Transactions](transactions.png)
